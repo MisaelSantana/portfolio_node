@@ -3,3 +3,6 @@
 Nesse projeto estou criando meu primeiro webApp adotando NodeJs, EjS e Bootstrap.
 
 
+- Node
+- EJS
+- JSON
